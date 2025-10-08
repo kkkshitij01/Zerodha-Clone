@@ -10,10 +10,10 @@ export default function HomePage() {
         <>
             <Nav />
             <Hero />
+            <Awards />
             <Stats />
             <Education />
             <Pricing />
-            <Awards />
             <Footer />
         </>
     )
