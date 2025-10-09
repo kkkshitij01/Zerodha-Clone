@@ -1,6 +1,6 @@
 export default function Stats() {
     return (
-        <div className="container p-5" style={{ marginTop: "150px", lineHeight: "2" }}>
+        <div className="container p-5" style={{ marginTop: "100px", lineHeight: "2" }}>
             <div className="row  ">
                 <div className="col-6 p-5">
                     {/* LEFt */}

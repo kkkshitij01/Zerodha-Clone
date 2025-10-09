@@ -12,8 +12,8 @@ export default function HomePage() {
             <Hero />
             <Awards />
             <Stats />
-            <Education />
             <Pricing />
+            <Education />
             <Footer />
         </>
     )

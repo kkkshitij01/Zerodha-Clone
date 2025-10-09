@@ -1,6 +1,6 @@
 export default function Awards() {
     return (
-        <div className="container " style={{ marginTop: "140px" }}>
+        <div className="container " style={{ marginTop: "120px" }}>
             <div className="row">
                 <div className="col-6 ">
                     <img src="media/images/largestBroker.svg" alt="largest-broker" />
@@ -26,7 +26,7 @@ export default function Awards() {
                             </ul>
                         </div>
                     </div>
-                    <img src="media/images/pressLogos.png" alt="press-logos" style={{ width: "70%" }} className="mt-3" />
+                    <img src="media/images/pressLogos.png" alt="press-logos" style={{ width: "90%" }} className="mt-5" />
                 </div>
 
             </div>
