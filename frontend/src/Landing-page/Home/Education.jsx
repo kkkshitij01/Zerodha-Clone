@@ -1,6 +1,6 @@
 export default function Education() {
     return (
-        <div className="container p-5" style={{ marginTop: "120px" }}>
+        <div className="container p-5" style={{ marginTop: "150px" }}>
             <div className="row">
                 <div className="col">
                     <img src="media/images/education.svg" alt="varsit-png" style={{ width: "80%" }} />

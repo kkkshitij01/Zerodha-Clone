@@ -5,6 +5,7 @@ import Education from "./Education"
 import Hero from "./Hero"
 import Nav from "../Nav"
 import Footer from "../Footer"
+import OpenAccount from "../OpenAccount"
 export default function HomePage() {
     return (
         <>
@@ -14,6 +15,7 @@ export default function HomePage() {
             <Stats />
             <Pricing />
             <Education />
+            <OpenAccount />
             <Footer />
         </>
     )
