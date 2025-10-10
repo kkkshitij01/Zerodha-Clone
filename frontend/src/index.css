@@ -16,3 +16,12 @@ code {
   color: #666666 !important;
   font-size: 15px;
 }
+
+footer a {
+  text-decoration: none;
+  color: rgb(120, 120, 120);
+  font-size: 15px;
+  &:hover {
+    color: #387ed1;
+  }
+}
