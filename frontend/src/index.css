@@ -1,4 +1,6 @@
 body {
+  padding-top: 80px; /* height of your navbar */
+
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -15,6 +17,9 @@ code {
   margin-left: 34px;
   color: #666666 !important;
   font-size: 15px;
+}
+footer {
+  background-color: #f7f6f6;
 }
 
 footer a {

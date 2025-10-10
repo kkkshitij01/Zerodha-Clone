@@ -1,6 +1,6 @@
 export default function Hero() {
     return (
-        <div className="container text-center mb-5" style={{ marginTop: "150px" }}>
+        <div className="container text-center mb-5" >
             <div className="row">
                 <img src='media/images/homeHero.png' alt="Hero-image" className="mb-3 col-8" style={{ margin: "0 auto" }} />
                 <h1 className="mt-5 ">Invest In Everything</h1>
