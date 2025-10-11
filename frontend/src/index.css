@@ -22,6 +22,9 @@ footer {
   background-color: #f7f6f6;
 }
 
+a {
+  text-decoration: none;
+}
 footer a {
   text-decoration: none;
   color: rgb(120, 120, 120);
