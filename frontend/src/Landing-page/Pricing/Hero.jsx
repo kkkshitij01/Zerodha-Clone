@@ -1,6 +1,6 @@
 export default function Hero() {
     return (
-        <div className="container">
+        <div className="container" style={{ marginBottom: "100px" }}>
             <div className="row text-center mt-5 border-bottom pb-5 ">
                 <h1>Charges</h1>
                 <p className="text-muted">Free equity investment and flat ₹20 traday and F&O trades</p>

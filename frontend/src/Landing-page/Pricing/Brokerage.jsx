@@ -1,7 +1,7 @@
 import OpenAccount from "../OpenAccount"
 export default function Brokerage() {
     return (
-        <div className="container mt-5">
+        <div className="container " style={{ marginTop: "150px", marginBottom: "100px" }}>
             <div className="row">
                 <div className="col-8">
                     <h5 className="text-center" style={{ color: "#387ed1" }}>Brokerage calculator</h5>
